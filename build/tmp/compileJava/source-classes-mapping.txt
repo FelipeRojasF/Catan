@@ -24,9 +24,13 @@ com/catan/application/api/controllers/v2/resource/CardEspResource.java
  com.catan.application.api.controllers.v2.resource.CardEspResource
 com/catan/application/api/controllers/v2/CardController.java
  com.catan.application.api.controllers.v2.CardController
-com/catan/application/api/controllers/v1/CardsController.java
- com.catan.application.api.controllers.v1.CardsController
+com/catan/infrastructure/persistence/redis/RedisClient.java
+ com.catan.infrastructure.persistence.redis.RedisClient
 com/catan/application/api/controllers/v2/mapper/CardEspMapper.java
  com.catan.application.api.controllers.v2.mapper.CardEspMapper
 com/catan/application/api/controllers/v1/DeckController.java
  com.catan.application.api.controllers.v1.DeckController
+com/catan/application/api/controllers/v1/CardsController.java
+ com.catan.application.api.controllers.v1.CardsController
+com/catan/infrastructure/persistence/redis/repository/CardRepositoryImpl.java
+ com.catan.infrastructure.persistence.redis.repository.CardRepositoryImpl

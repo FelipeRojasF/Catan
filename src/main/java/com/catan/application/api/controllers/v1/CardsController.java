@@ -3,6 +3,7 @@ package com.catan.application.api.controllers.v1;
 import com.catan.domain.entity.Card;
 import com.catan.domain.repository.CardRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
